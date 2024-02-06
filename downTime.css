@@ -1,0 +1,43 @@
+.nav-bar{
+    background-color: black;
+    color: white;
+    height: 30px;
+    padding: 10px;
+    font-family: fantasy;
+    font-size: 25px;
+}
+
+.input{
+    margin: auto;
+    font-size: larger;
+}
+
+.input1{
+    margin: 5px;
+    padding: 5px;
+}
+
+#server{
+    height: 2vw;
+}
+
+#app{
+    height: 2vw;
+}
+
+.grad{
+    height: 5px;
+    background: linear-gradient(90deg,#ffc200,#f0f,#ffc200);
+}
+
+img{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: whitesmoke;
+}
